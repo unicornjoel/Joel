@@ -15,7 +15,7 @@ int mathyness(float things, float otherthings)
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout<<"I'll make this say something different" << mathyness(12.22, 15.0);
+	cout<<"This says some other thing, so it'll conflict. I think. " << mathyness(12.22, 15.0);
 	Sleep(1000.0);
 	return 0;
 }
