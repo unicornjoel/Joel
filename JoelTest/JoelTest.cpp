@@ -9,7 +9,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout<<"fuck yeah";
+	cout<<"Yep, Now the message is different. No, I have no idea why that N was capitalized.";
 	Sleep(1000);
 	return 0;
 }
